@@ -1,5 +1,5 @@
 *Real time chat application
-Made with html,css,javascript,socket.io
+made with html,css,javascript,socket.io
 
 In app image: 
 
